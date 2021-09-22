@@ -10,6 +10,7 @@ namespace CustomerData
     {
         static void Main()
         {
+            Console.WriteLine("Hello");
         }
     }
 }
